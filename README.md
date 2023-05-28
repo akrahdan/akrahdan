@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Sam Akrah, and machine learning engineer interested in all things distributed. 
+In my spare time, I break apart complex source codes, reduce them to their bare essentials, and explain them all who care to read.
 
 <!--
 **akrahdan/akrahdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
